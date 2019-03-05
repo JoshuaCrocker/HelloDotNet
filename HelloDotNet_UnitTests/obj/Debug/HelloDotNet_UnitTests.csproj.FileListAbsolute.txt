@@ -1,0 +1,17 @@
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/HelloDotNet_UnitTests.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/HelloDotNet_UnitTests.pdb
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.abstractions.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.assert.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.core.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.execution.desktop.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.abstractions.xml
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.assert.pdb
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.assert.xml
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.core.pdb
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.core.xml
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.execution.desktop.pdb
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/bin/Debug/xunit.execution.desktop.xml
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/obj/Debug/HelloDotNet_UnitTests.csprojResolveAssemblyReference.cache
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/obj/Debug/HelloDotNet_UnitTests.csproj.CoreCompileInputs.cache
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/obj/Debug/HelloDotNet_UnitTests.dll
+/Users/joshuacrocker/Programming/HelloDotNet/HelloDotNet_UnitTests/obj/Debug/HelloDotNet_UnitTests.pdb
